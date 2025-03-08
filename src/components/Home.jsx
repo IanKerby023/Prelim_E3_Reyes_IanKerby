@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div className="container text-center mt-5">
       <h1>Welcome 👋</h1>
-      <p>Start exploring the app!</p>
+      <p>Start exploring my app!</p>
     </div>
   );
 };
